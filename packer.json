@@ -18,6 +18,7 @@
       "tags": {
         "Name": "DevOpsClass-Build-{{isotime | clean_resource_name}}"
       }
+        }],
     "provisioners": [{
       "type": "shell",
       "inline": [
